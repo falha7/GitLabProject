@@ -4,3 +4,4 @@ My Career Goals:
 - Work on real-world projects
 - Contribute to open source
 - Build a strong portfolio
+- Learn Git and GitHub workflow
